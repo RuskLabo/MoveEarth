@@ -1,6 +1,6 @@
 # MoveEarth Wiki
 
-
+<figure><img src="https://cdn.discordapp.com/attachments/1143383347020701726/1146755274217111642/moveearthlogo.png" alt=""><figcaption></figcaption></figure>
 
 ## サーバーの内容
 
